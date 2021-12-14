@@ -1,5 +1,4 @@
 import pygame
-from termios import B230400
 
 
 class Monster():
